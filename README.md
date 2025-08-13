@@ -37,7 +37,7 @@ Computer Science Big Data Student at the University of Wollongong in Dubai
 
 ##  Featured Projects
 
-###  [FaceFind](https://github.com/Amaanish/FaceFind](https://github.com/Amaanish/Photo-Organization-Tool)
+###  [FaceFind](https://github.com/Amaanish/Photo-Organization-Tool)
 Intelligent photo organization tool using advanced face recognition
 - **Tech**: Python, InsightFace, OpenCV, AppleScript
 - **Features**: Automated photo sorting, macOS Finder integration
