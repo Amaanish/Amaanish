@@ -43,6 +43,18 @@ Intelligent photo organization tool using advanced face recognition
 - **Features**: Automated photo sorting, macOS Finder integration
 - **Use Case**: Quickly locate specific people in large photo collections
 
+###  [Traffic Prediction System](https://github.com/Amaanish/Traffic-Prediction)
+Real-time traffic analysis and travel time prediction using ML and TomTom API
+- **Tech**: Python, scikit-learn, TomTom API, K-Means, Random Forest
+- **Features**: Bidirectional analysis, optimal time finder, real-time monitoring, route visualization
+- **Use Case**: Smart commute planning with 4 time period classifications and dual prediction modes
+
+###  [Fuel Price Predictor](https://github.com/Amaanish/Fuel-Prediction)
+Advanced ML system forecasting UAE Special 95 gasoline prices 1-3 months ahead
+- **Tech**: Python, XGBoost, Bayesian Optimization, Yahoo Finance API, Target Encoding
+- **Features**: Real-time market data integration, 12-month lag features, volatility adjustment
+- **Performance**: R² Score ~0.54, MAE 0.136 AED with time series cross-validation
+
 
 ##  Current Focus
 
