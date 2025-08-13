@@ -73,5 +73,3 @@ Advanced ML system forecasting UAE Special 95 gasoline prices 1-3 months ahead
 ---
 
 *"Code is poetry written for machines to execute and humans to understand."*
-
-Thanks for stopping by! ⭐ Star some repos if you find them useful!
