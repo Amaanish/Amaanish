@@ -43,11 +43,6 @@ Intelligent photo organization tool using advanced face recognition
 - **Features**: Automated photo sorting, macOS Finder integration
 - **Use Case**: Quickly locate specific people in large photo collections
 
-*More projects coming soon...*
-
-##  GitHub Stats
-
-![Amaanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amaanish&show_icons=true&theme=dark)
 
 ##  Current Focus
 
