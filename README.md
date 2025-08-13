@@ -50,7 +50,7 @@ Real-time traffic analysis and travel time prediction using ML and TomTom API
 - **Use Case**: Smart commute planning with 4 time period classifications and dual prediction modes
 
 ###  [Fuel Price Predictor](https://github.com/Amaanish/Fuel-Prediction)
-Advanced ML system forecasting UAE Special 95 gasoline prices 1-3 months ahead
+Advanced ML system forecasting UAE Special 95 gasoline prices for the next month
 - **Tech**: Python, XGBoost, Bayesian Optimization, Yahoo Finance API, Target Encoding
 - **Features**: Real-time market data integration, 12-month lag features, volatility adjustment
 - **Performance**: R² Score ~0.54, MAE 0.136 AED with time series cross-validation
