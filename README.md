@@ -92,12 +92,6 @@ Security research tool for WiFi password strength testing
 - **Features**: WPA2 vulnerability detection, penetration testing
 - **Use Case**: Network security auditing and educational purposes
 
-###  [Logo Finder](https://github.com/Amaanish/Logo-Finder)
-Computer vision application for logo detection and identification
-- **Tech**: Python, OpenCV, deep learning
-- **Features**: Logo localization, brand detection
-- **Use Case**: Brand analysis and image classification
-
 ###  [Snake Game](https://github.com/Amaanish/Snake-Game)
 Classic Snake game implementation with modern enhancements
 - **Tech**: Python, game development
