@@ -122,7 +122,6 @@ Full-featured chess game with AI opponent
 -  Love discussing new ideas, data science trends, and tech innovations
 -  Feel free to reach out through LinkedIn, GitHub issues or discussions
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/amaan-israr-122841287/)
 ---
 *"Code is poetry written for machines to execute and humans to understand."*
